@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\bin\Debug\RestaurantEx.exe.config
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\bin\Debug\RestaurantEx.exe
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\bin\Debug\RestaurantEx.pdb
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\obj\Debug\RestaurantEx.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\obj\Debug\RestaurantEx.exe
+D:\Documents\Visual Studio 2017\Projects\RestaurantEx\RestaurantEx\obj\Debug\RestaurantEx.pdb
