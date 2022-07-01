@@ -12,11 +12,11 @@ namespace RestaurantEx
         public int Rating { get; set; }
         public List<IEmployee> Employees { get; set; }
 
-        public Restaurant(string name, int rating, List<IEmployee> employees)
+        public Restaurant(string name, int rating, EmployeesList employees)
         {
             Name = name;
             Rating = rating;
-            Employees = employees;
+            Employees = employees.GetEmployees();
         }
         public void GetInfo()
         {

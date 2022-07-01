@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Badge\Badge.cs" />
+    <Compile Include="Employee\EmployeesList.cs" />
     <Compile Include="Employee\ChefModel.cs" />
     <Compile Include="Employee\Employee.cs" />
     <Compile Include="Badge\IBadge.cs" />
